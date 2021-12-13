@@ -1,0 +1,21 @@
+{
+    "name": "catdracula",
+    "displayName": "catDracula",
+    "description": "Combination of catppuccin theme and Dracula theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cat Dracula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CatDracula-color-theme.json"
+            }
+        ]
+    }
+}
