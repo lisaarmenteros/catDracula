@@ -1,9 +1,9 @@
 {
 	"name": "Cat Dracula",
 	"type": "dark",
-	"semanticClass": "theme.dracula",
+	"semanticClass": "theme.catdracula",
     "semanticHighlighting": true,
-    "dracula": {
+    "catdracula": {
         "base": [
             "#1e1e28",
             "#F8F8F2",
